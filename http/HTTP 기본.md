@@ -35,4 +35,38 @@
 - 1 시간 동안 수천명이 서비스를 사용해도 실제 서버에서 동시에 처리하는 요청은 수십개 이하로 매우 작음
   - ex) 웹 브라우저에서 계속 연속해서 검색 버튼을 누르지는 않는다.
 - 서버 자원을 매우 효율적으로 사용할 수 있음
--  
+
+## HTTP 메시지 구조
+- start-line 시작 라인
+- header 헤더
+- empty line 공백 라인 (CRLF)
+- message body
+
+## 시작 라인 (요청 메시지)
+- ex) GET /search?q=hello&hl=ko HTTP/1.1
+- start-line = request-line / Status-line
+- HTTP 메서드 (GET)
+  - 서버가 수행해야 할 동작 지정
+- 요청 대상 (/search?q=hello&hl=ko)
+- HTTP Version
+
+## 시작 라인 (응답 메시지)
+- ex) HTTP/1.1 200 OK
+- HTTP 버전
+- HTTP 상태 코드: 요청 성공, 실패를 나타냄
+  - 200: 성공
+  - 400: 클라이언트 요청 오류
+  - 500: 서버 내부 오류
+- 이유 문구: 사람이 이해할 수 있는 짧은 상태 코드 설명 글
+
+## HTTP 헤더
+![img.png](img.png)
+- HTTP 전송에 필요한 모든 부가정보
+- ex) 메시지 바디의 내용, 메시지 바디의 크기, 압축, 인증, 요청 클라이언트 정보 등
+- 표준 헤더가 너무 많음
+- 필요시 임의의 헤더 추가 가능
+
+## HTTP 메시지 바디
+![img_1.png](img_1.png)
+- 실제 전송할 데이터
+- HTML 문서, 이미지, 영상, JSON 등 byte 로 표현할 수 있는 모든 데이터 전송 가능
