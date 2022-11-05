@@ -34,5 +34,28 @@ public class MyDateMain {
         MyDate d2 = new MyDate(2022,10);
         d2.print();              // 2022/10
     }
+}거
+```
+#
+## 참조 변수 this
+- 인스턴스 변수(iv)와 지역변수(lv)의 이름이 같을 때 구별하려고 사용
+- this 가 붙으면 iv, 안 붙여주면 매개변수와 가까운 lv
+- 인스턴스 자신을 가리키는 참조 변수(객체 주소가 저장되어 있음)
+- 인스턴스 메서드에서 사용 가능 / static 메서드에서는 사용 불가
+```java
+//이름 다를 때
+Car(String c, String g, int d) {  //color는 iv, c는 lv   구분이 되기 때문에 그냥 사용
+    color = c;
+    gearType = g;
+    door = d;
 }
+
+같을때
+Car(String color, String gearType, int door) {
+    //this.color는  iv, color는 lv
+    this.color = color;
+    this.gearType = gearType;
+    this.door = door;
+}
+
 ```
