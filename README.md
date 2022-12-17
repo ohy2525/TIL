@@ -4,7 +4,7 @@
 
 [변수, 상수, 리터럴](https://github.com/ohy2525/TIL/blob/master/JAVA/%EB%B3%80%EC%88%98%2C%20%EC%83%81%EC%88%98%2C%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
 
-
+[기본형과 참조형](https://github.com/ohy2525/TIL/blob/master/JAVA/%EA%B8%B0%EB%B3%B8%ED%98%95%EA%B3%BC%20%EC%B0%B8%EC%A1%B0%ED%98%95.md)
 
 
 ## spring
