@@ -1,5 +1,12 @@
 # TIL
 
+## JAVA
+
+[변수, 상수, 리터럴](https://github.com/ohy2525/TIL/blob/master/JAVA/%EB%B3%80%EC%88%98%2C%20%EC%83%81%EC%88%98%2C%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
+
+
+
+
 ## spring
 
 [객체 지향 설계 5 원칙(SOLID)](https://github.com/ohy2525/TIL/blob/master/spring/SOLID.md)
