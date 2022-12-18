@@ -8,6 +8,7 @@
 
 [연산자와 피연산자](https://github.com/ohy2525/TIL/blob/master/JAVA/%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%94%BC%EC%97%B0%EC%82%B0%EC%9E%90.md)
 
+[for문, while문](https://github.com/ohy2525/TIL/blob/master/JAVA/for%EB%AC%B8%2C%20while%EB%AC%B8.md)
 
 ## spring
 
