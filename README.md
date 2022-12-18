@@ -10,6 +10,8 @@
 
 [for문, while문](https://github.com/ohy2525/TIL/blob/master/JAVA/for%EB%AC%B8%2C%20while%EB%AC%B8.md)
 
+[배열](https://github.com/ohy2525/TIL/blob/master/JAVA/%EB%B0%B0%EC%97%B4.md)
+
 ## spring
 
 [객체 지향 설계 5 원칙(SOLID)](https://github.com/ohy2525/TIL/blob/master/spring/SOLID.md)
