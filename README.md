@@ -12,6 +12,8 @@
 
 [배열](https://github.com/ohy2525/TIL/blob/master/JAVA/%EB%B0%B0%EC%97%B4.md)
 
+[프로그램 오류, 예외 클래스](https://github.com/ohy2525/TIL/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%98%A4%EB%A5%98%2C%20%EC%98%88%EC%99%B8%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+
 ## spring
 
 [객체 지향 설계 5 원칙(SOLID)](https://github.com/ohy2525/TIL/blob/master/spring/SOLID.md)
