@@ -21,13 +21,13 @@
 
 [컬렉션](https://github.com/ohy2525/TIL/blob/master/JAVA/%EC%BB%AC%EB%A0%89%EC%85%98.md)
 
+[iteration, Enumeration](https://github.com/ohy2525/TIL/blob/master/JAVA/Iterator%2C%20Enumeration.md)
+
+[Arrays, Comparator](https://github.com/ohy2525/TIL/blob/master/JAVA/Arrays%2C%20Comparator.md)
+
 [리스트](https://github.com/ohy2525/TIL/blob/master/JAVA/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
-[iteration, Enumeration]()
-
-[Arrays, Comparator]()
-
-[Set]()
+[Set](https://github.com/ohy2525/TIL/blob/master/JAVA/Set.md)
 
 ## spring
 
