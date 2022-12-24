@@ -21,6 +21,14 @@
 
 [컬렉션](https://github.com/ohy2525/TIL/blob/master/JAVA/%EC%BB%AC%EB%A0%89%EC%85%98.md)
 
+[리스트](https://github.com/ohy2525/TIL/blob/master/JAVA/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+
+[iteration, Enumeration]()
+
+[Arrays, Comparator]()
+
+[Set]()
+
 ## spring
 
 [객체 지향 설계 5 원칙(SOLID)](https://github.com/ohy2525/TIL/blob/master/spring/SOLID.md)
