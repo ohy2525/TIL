@@ -29,7 +29,9 @@
 
 [Set](https://github.com/ohy2525/TIL/blob/master/JAVA/Set.md)
 
-[Map]()
+[Map](https://github.com/ohy2525/TIL/blob/master/JAVA/Map.md)
+
+[지네릭스]()
 
 ## spring
 
