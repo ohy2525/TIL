@@ -31,7 +31,7 @@
 
 [Map](https://github.com/ohy2525/TIL/blob/master/JAVA/Map.md)
 
-[지네릭스]()
+[지네릭스](https://github.com/ohy2525/TIL/blob/master/JAVA/%EC%A7%80%EB%84%A4%EB%A6%AD%EC%8A%A4.md)
 
 ## spring
 
