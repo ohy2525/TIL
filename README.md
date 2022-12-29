@@ -33,6 +33,10 @@
 
 [지네릭스](https://github.com/ohy2525/TIL/blob/master/JAVA/%EC%A7%80%EB%84%A4%EB%A6%AD%EC%8A%A4.md)
 
+[enum](https://github.com/ohy2525/TIL/blob/master/JAVA/enum.md)
+
+[쓰레드](https://github.com/ohy2525/TIL/blob/master/JAVA/%EC%93%B0%EB%A0%88%EB%93%9C.md)
+
 ## spring
 
 [객체 지향 설계 5 원칙(SOLID)](https://github.com/ohy2525/TIL/blob/master/spring/SOLID.md)
