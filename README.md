@@ -37,6 +37,10 @@
 
 [쓰레드](https://github.com/ohy2525/TIL/blob/master/JAVA/%EC%93%B0%EB%A0%88%EB%93%9C.md)
 
+[람다식](https://github.com/ohy2525/TIL/blob/master/JAVA/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
+
+[스트림](https://github.com/ohy2525/TIL/blob/master/JAVA/%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
+
 ## spring
 
 [객체 지향 설계 5 원칙(SOLID)](https://github.com/ohy2525/TIL/blob/master/spring/SOLID.md)
